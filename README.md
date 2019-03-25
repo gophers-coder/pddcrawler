@@ -1,6 +1,6 @@
 # PDDCrawler
 
-> 拼多多爬虫，第五期(价值 30k ~ 50k 的爬虫示例）
+> 拼多多爬虫，第五期(价值 30k ~ 60k 的爬虫示例）
 
 [![Build Status](https://travis-ci.com/gophers-coder/pddcrawler.svg?branch=master)](https://travis-ci.com/gophers-coder/pddcrawler)
 
